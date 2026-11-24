@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pace Coach",
+      "hasCanvas": false,
+      "bodyTextLen": 608,
+      "bodyTextHash": "95b008f4d5aa8d315d2554254cb533c7cf75970295f617f7ec66216901069d13",
+      "bodyTextPrefix": "PACE Coach for the ProForm 105 CST Not linked 0.0 km/h · belt id",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pace Coach",
+      "hasCanvas": false,
+      "bodyTextLen": 608,
+      "bodyTextHash": "95b008f4d5aa8d315d2554254cb533c7cf75970295f617f7ec66216901069d13",
+      "bodyTextPrefix": "PACE Coach for the ProForm 105 CST Not linked 0.0 km/h · belt id",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

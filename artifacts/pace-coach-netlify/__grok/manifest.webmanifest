@@ -1,0 +1,16 @@
+{
+  "name": "Pace Coach",
+  "short_name": "Pace Coach",
+  "description": "Coach that sets the speed on a ProForm 105 CST treadmill.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101614",
+  "theme_color": "#101614",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/__grok/icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
